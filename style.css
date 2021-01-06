@@ -1,0 +1,400 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+
+}
+body{
+    font-family: 'Montserrat', sans-serif;
+    box-sizing: border-box;
+}
+.container{
+    width: 80%;
+    margin: auto;
+}
+/* Navabr Section */
+.navbar{
+    
+}
+.logo{
+    display: inline-block;
+    float: left;
+}
+
+
+
+.menu{
+    overflow: hidden;
+}
+.menu ul li{
+    list-style: none;
+    float: right;
+    margin: 34px 20px;
+    padding: 10px;
+}
+.menu ul li a{
+    text-decoration: none;
+    color: #000000;
+    font-size: 20px;
+    font-family: 'Staatliches', cursive;
+}
+/* End Navbar Section */
+
+/* Start Top Section Content */
+
+
+.top_content{
+    
+    
+}
+.top_left_content{
+    width: 50%;
+    background-color:;
+    height: 400px;
+    float: left;
+}
+.top_left_content a img {
+    width: 400px;
+    height: 400px;
+    padding-top: 30px;
+}
+.top_right_content{
+    width: 50%;
+    background-color:;
+    height: 400px;
+    overflow: hidden;
+}
+
+.top_right_content p{
+    font-family: 'Montserrat', sans-serif;
+}
+.top_right_content h2{
+    font-family: 'Staatliches', cursive;
+    font-size: 50px;
+    letter-spacing: 8px;
+}
+.top_right{
+    padding-top: 120px;
+    padding-left: 45px;
+}
+.hey{
+    color: #6F8CFF;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+}
+
+.button{
+    
+    background-color: #6F8CFF;
+    text-decoration: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: bold;
+    display: inline-block;
+    margin-left: 20px;
+    margin-top: 8px;
+    font-size: 20px;
+   
+    
+
+    
+
+}
+
+/* Middle Section Content */
+.middle_content{
+    border: ;
+}
+
+.middle_left_content{
+    width: 50%;
+    background-color;
+    
+    height: 450px;
+    float: left;
+}
+.about_me{
+    margin-top: 40px;
+    margin-left: 10px;
+}
+.about_me h2{
+    font-size: 40px;
+    font-family: 'Staatliches', cursive;
+}
+
+.middle_right_content{
+    width: 50%;
+    background-color:;
+    height: 450px;
+    overflow: hidden;
+}
+.middle_photo_content a img{
+    width: 400px;
+    height: 400px;
+    padding-top: 35px;
+    float: right;
+}
+.about_me span strong {
+    font-size: 20px;
+    font-family:'Montserrat', sans-serif ;
+    letter-spacing: 0.5px;
+    
+}
+.about_me span{
+    line-height: 30px;
+}
+
+.button_cv{
+    margin-top: 15px;
+}
+.button_cv a {
+    text-decoration: none;
+    background-color: #D88176;
+    padding: 10px 20px;
+    color: white;
+    border-radius: 5px;
+
+}
+
+
+
+/* End Middle Section Content */
+
+/* last Content Section */
+
+.last_content_section{
+    background-color: #f8f9fc;
+    
+}
+.content_middle{
+    width: 80%;
+    margin: auto;
+    height: 500px;
+}
+.last_content_one{
+    height: 100px;
+    background-color: red;
+    margin-top: px ;
+}
+.last_content_one h1{
+    text-align: center;
+    margin: auto;
+    
+    
+}
+.last_heading{
+    margin-top: 20px;
+}
+/* last content two */
+.last_content_two{
+    height: 400px;
+    background-color: gray;
+}
+.last_top{
+    width: 30%;
+    height: 30px;
+    background-color: indigo;
+    float: left;
+}
+.last_middle{
+    width: 30%;
+    height: 30px;
+    background-color: rgb(0, 24, 130) 24, 130)
+    ;
+    overflow: hidden;
+    float: left;
+}
+.last_last{
+    width: 30%;
+    height: 30px;
+    background-color: rgb(74, 130, 0), 130, 0)
+    ;
+    overflow: hidden;
+}
+
+
+/* Last Content Section */
+.last_heading {
+    background-color:#f8f9fc ;
+    height: 300px;
+    width: 100%;
+    
+}
+.last_heading h1{
+    font-size: 40px;
+    text-align: center;
+    padding: 120px;
+}
+.last_heading h1 span{
+    color: #738AE4;
+    display: inline-block;
+   
+}
+
+/* Three Box */
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+}
+.last{
+    background-color: #f8f9fc;
+    height: 400px;
+    background-color: ;
+}
+.container_middle{
+    width: 80%;
+    margin: auto;
+}
+.box{
+    width: 30%;
+    height: 300px;
+    margin-right: 3.33%;
+    background-color: white;
+    border: 20px;
+    border-radius: 20px;
+    box-shadow: 1px 5px 20px 0px #e3e2e2;
+   
+}
+.box_one{
+    float: left;
+    font-family: 'Roboto', sans-serif;
+}
+
+.box_one img {
+    width: 90%;
+    height: 40%;
+    margin-left: 14px;
+    margin-top: 13px;
+}
+.box_one h2{
+    font-weight: bold;
+    margin-left: 14px;
+    margin-top: 13px;
+    text-align: justify;
+    
+}
+.box_one span{
+    
+    text-align: justify;
+    display: inline-block;
+    margin-left: 13px;
+    margin-right: 13px;
+    margin-top: 10px;
+}
+
+/* box two */
+.box_two{
+ 
+    
+    overflow: hidden;
+    float: left;
+}
+.box_two{
+    float: left;
+    font-family: 'Roboto', sans-serif;
+}
+
+.box_two img {
+    width: 90%;
+    height: 50%;
+    margin-left: 14px;
+    margin-top: 13px;
+}
+.box_two h2{
+    font-weight: bold;
+    margin-left: 14px;
+    margin-top: 13px;
+    text-align: justify;
+    
+}
+.box_two span{
+    
+    text-align: justify;
+    display: inline-block;
+    margin-left: 13px;
+    margin-right: 13px;
+    margin-top: 10px;
+}
+.box_three{
+
+  
+    overflow: hidden;
+}
+.box_three{
+    float: left;
+    font-family: 'Roboto', sans-serif;
+}
+
+.box_three img {
+    width: 90%;
+    height: 50%;
+    margin-left: 14px;
+    margin-top: 13px;
+}
+.box_three h2{
+    font-weight: bold;
+    margin-left: 14px;
+    margin-top: 13px;
+    text-align: justify;
+    
+}
+.box_three span{
+    
+    text-align: justify;
+    display: inline-block;
+    margin-left: 13px;
+    margin-right: 13px;
+    margin-top: 10px;
+}
+
+/* Box Button */
+.box_button{
+    position: relative;
+    
+}
+.button_img{
+    width: 60%;
+    height: 150px;
+    margin-left: 230px;
+    margin-top: 150px;
+    margin-bottom: 150px;
+    
+}
+.box_head {
+    position: absolute;
+    top: 210px;
+    left: 280px;
+    color: white;
+}
+.button_link{
+    text-decoration: none;
+    background-color: #D88176;
+    padding: 8px 15px;
+    margin: 10px;
+    color: white;
+    border-radius: 5px;
+    position: absolute;
+    top: 205px;
+    right: 326px;
+}
+/* Box End */
+
+
+/* Footer */
+
+.footer_top{
+    text-align: center;
+}
+
+
+/* Footer Icon */
+.footer_icon{
+ text-align: center;
+}
+.footer_icon a img{
+    width: 50px;
+    height: 50px;
+    margin: 20px;
+    
+}
