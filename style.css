@@ -12,16 +12,11 @@ body{
     margin: auto;
 }
 /* Navabr Section */
-.navbar{
-    
-}
+
 .logo{
     display: inline-block;
     float: left;
 }
-
-
-
 .menu{
     overflow: hidden;
 }
